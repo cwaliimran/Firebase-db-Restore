@@ -1,0 +1,87 @@
+  {
+    "birds": {
+      "1": { "id": "1", "title": "Layers" },
+      "2": { "id": "2", "title": "Broilers" },
+      "3": { "id": "3", "title": "Mixed" },
+      "4": { "id": "4", "title": "Others" }
+    },
+    "breeds": {
+      "1": { "id": "1", "title": "Kienyeji" },
+      "2": { "id": "2", "title": "Kuroiler" },
+      "3": { "id": "3", "title": "Kuroiler" },
+      "4": { "id": "4", "title": "Leghorn" },
+      "5": { "id": "5", "title": "Rhode Island Red" },
+      "6": { "id": "6", "title": "Kenbro" }
+    },
+    "customers": {
+      "1": { "name": "Default", "id": "1" }
+    },
+    "egg_reduction_types": {
+      "1": { "id": "1", "title": "Sold" },
+      "2": { "id": "2", "title": "Lost" },
+      "3": { "id": "3", "title": "Other" }
+    },
+    "egg_types": {
+      "1": { "id": "1", "title": "Good" },
+      "2": { "id": "2", "title": "Small" },
+      "3": { "id": "3", "title": "Damaged" }
+    },
+    "expense_categories": {
+      "1": { "id": "1", "title": "Utilities" },
+      "2": { "id": "2", "title": "Electricity" },
+      "3": { "id": "3", "title": "Labor" },
+      "4": { "id": "4", "title": "Vaccine" },
+      "5": { "id": "5", "title": "Medication" },
+      "6": { "id": "6", "title": "Feed" },
+      "7": { "id": "7", "title": "Flock" },
+      "8": { "id": "8", "title": "Transport" },
+      "9": { "id": "9", "title": "Flock Lost" },
+      "10": { "id": "10", "title": "Flock Death" },
+      "11": { "id": "11", "title": "Other" }
+    },
+    "flock_batches": {
+      "1": {
+        "date": "05/03/2023",
+        "flock_source_type": "3",
+        "price": "0.0",
+        "qty": "0",
+        "bird_type": "1",
+        "id": "1",
+        "title": "General Flock",
+        "breed_type": "1"
+      }
+    },
+    "flock_source": {
+      "1": { "id": "1", "title": "Purchased" },
+      "2": { "id": "2", "title": "Hatched on farm" },
+      "3": { "id": "3", "title": "Other" }
+    },
+    "income_categories": {
+      "1": { "id": "1", "title": "Default" }
+    },
+    "users": {
+      "j4MeDO8jVLVtTN49f3013PObdr83": {
+        "farmName": "Mazao Farm",
+        "createdAt": "1695266289856",
+        "firstName": "Mazao",
+        "lastName": "Africa",
+        "phoneNumber": "",
+        "gender": "Male",
+        "location": "Nakuru Kenya",
+        "id": "j4MeDO8jVLVtTN49f3013PObdr83",
+        "accessToken": "",
+        "email": "mazaoafricatech@gmail.com",
+        "deviceToken": "fAniMve1QZ-jrUNx8WOjqU:APA91bEra82W9dPLL789CvZCb5RC2JD_JnTgeZwsTLfwyryz5tjHWev7LfUD7hqgR_qGvBeqiRmnPGg-9Sxgf5qFHk6XmYvFYnNJ78hM_3Ag-KBNN6Fpa5oiegsp_vCBPL8qnyfUpEHz",
+        "updatedAt": "1695266289856"
+      }
+    },
+    "vaccination_types": {
+      "1": { "id": "1", "title": "Mareks" },
+      "2": { "id": "2", "title": "Gumboro" },
+      "3": { "id": "3", "title": "Newcastle Disease" },
+      "4": { "id": "4", "title": "Fowl Pox" },
+      "5": { "id": "5", "title": "De-worming" }
+    },
+    "vendors": { "1": { "name": "Default", "id": "1" } }
+  }
+
