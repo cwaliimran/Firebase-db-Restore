@@ -17,7 +17,6 @@ const collections = {
   breeds: db.collection('breeds'),
   customers: db.collection('customers'),
   egg_reduction_types: db.collection('egg_reduction_types'),
-  egg_types: db.collection('egg_types'),
   expense_categories: db.collection('expense_categories'),
   flock_batches: db.collection('flock_batches'),
   flock_source: db.collection('flock_source'),
